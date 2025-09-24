@@ -1,0 +1,7 @@
+Date,Revenue,Game,Platform,Type,Genre,Audience_Gender,Audience_Age,Monetization,Status,Shutdown_Reason
+2023-01-01,12.5,Honor of Kings,Mobile,MOBA,"3D|Multiplayer|Mobile",Mixed,18-24,Gacha,Active,
+2023-02-01,13.2,Honor of Kings,Mobile,MOBA,"3D|Multiplayer|Mobile",Mixed,18-24,Gacha,Active,
+2023-03-01,14.0,Honor of Kings,Mobile,MOBA,"3D|Multiplayer|Mobile",Mixed,18-24,Gacha,Active,
+2023-01-01,8.7,Peacekeeper Elite,Mobile,FPS,"3D|Multiplayer|Mobile",Mixed,18-34,Gacha,Active,
+2023-02-01,8.5,Peacekeeper Elite,Mobile,FPS,"3D|Multiplayer|Mobile",Mixed,18-34,Gacha,Active,
+2023-03-01,9.1,Peacekeeper Elite,Mobile,FPS,"3D|Multiplayer|Mobile",Mixed,18-34,Gacha,Active,

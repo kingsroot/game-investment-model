@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R
+.Rhistory
+.Rproj.user/
+.RData
+
+# Data & outputs
+data/raw/
+data/processed/
+reports/figures/*.png
+reports/figures/*.pdf
+
+# Environments
+.venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
